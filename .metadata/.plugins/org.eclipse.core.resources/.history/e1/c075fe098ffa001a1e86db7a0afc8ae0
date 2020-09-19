@@ -1,0 +1,36 @@
+package ½ÅÈ£µî;
+
+import javax.swing.JFrame;
+import javax.swing.JButton;
+import java.awt.Color;
+import java.awt.Font;
+
+public class ½ÅÈ£µî {
+	public static void main(String[] args) {
+		JFrame j = new JFrame();
+		j.setSize(260, 507);
+		j.getContentPane().setLayout(null);
+		
+		JButton red = new JButton("\uBE68\uAC15\uC2E0\uD638");
+		red.setForeground(Color.WHITE);
+		red.setFont(new Font("ÈÞ¸Õ¿¾Ã¼", Font.BOLD, 30));
+		red.setBackground(Color.RED);
+		red.setBounds(12, 10, 220, 91);
+		j.getContentPane().add(red);
+		
+		JButton yellow = new JButton("\uBE68\uAC15\uC2E0\uD638");
+		yellow.setForeground(Color.WHITE);
+		yellow.setFont(new Font("ÈÞ¸Õ¿¾Ã¼", Font.BOLD, 30));
+		yellow.setBackground(Color.RED);
+		yellow.setBounds(12, 111, 220, 91);
+		j.getContentPane().add(yellow);
+		
+		JButton blue = new JButton("\uBE68\uAC15\uC2E0\uD638");
+		blue.setForeground(Color.WHITE);
+		blue.setFont(new Font("ÈÞ¸Õ¿¾Ã¼", Font.BOLD, 30));
+		blue.setBackground(Color.RED);
+		blue.setBounds(12, 212, 220, 91);
+		j.getContentPane().add(blue);
+		j.setVisible(true);
+	}
+}
