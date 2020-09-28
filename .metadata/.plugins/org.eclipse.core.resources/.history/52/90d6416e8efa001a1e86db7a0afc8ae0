@@ -1,7 +1,0 @@
-package 신호등;
-
-public class 신호등 {
-	public static void main(String[] args) {
-		
-	}
-}

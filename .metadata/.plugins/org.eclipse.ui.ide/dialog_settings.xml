@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="ExternalProjectImportWizard">
-		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\course\java\java_jumal\meme"/>
+			<item value="D:\course\java\java_jumal\java08"/>
+			<item value="D:\course\java\java_jumal\java06"/>
+			<item value="D:\course\java\java_jumal\ameme"/>
+			<item value="D:\course\java\java_jumal\java07"/>
+			<item value="D:\course\java\java_jumal\day09"/>
+			<item value="D:\course\java\java_jumal\day08"/>
+			<item value="D:\course\java\java_jumal\day06"/>
+			<item value="D:\course\java\java_jumal\day07"/>
 			<item value="D:\course\java\java_jumal"/>
 			<item value=""/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
 			<item value="C:\Users\bnana\OneDrive\바탕 화면\0919.zip"/>
 			<item value="D:\0_inyoung\it_study\java\java_재수강\day02.zip"/>
 			<item value="D:\0_inyoung\it_study\java\java_재수강\day01.zip"/>

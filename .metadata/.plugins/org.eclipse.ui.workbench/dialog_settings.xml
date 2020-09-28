@@ -13,4 +13,6 @@
 			<item value="org.eclipse.jpt.jaxb"/>
 		</list>
 	</section>
+	<section name="FileSystemImportWizard">
+	</section>
 </section>
